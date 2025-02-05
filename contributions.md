@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 5   | https://en.wikipedia.org/w/index.php?title=Christina_Haack&oldid=1274153017    | Wikipedia    |   Updated information about the show's team members from current updates.    |
 |     |     |     |      |
 |     |     |     |      |
