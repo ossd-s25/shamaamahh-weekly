@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background-color: rgb(255, 227, 221)
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -351,7 +351,3 @@ table {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-body {
-  background-color: rgb(255, 227, 221);
-}
