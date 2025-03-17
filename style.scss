@@ -213,9 +213,7 @@ img {
   width: 70px;
   height: 70px;
   margin-right: 15px;
-  position: relative;
-  z-index: 1
-  
+
   @include mobile {
     float: none;
     display: block;
@@ -363,22 +361,4 @@ body {
   padding: 20px;            // inner spacing
   border-radius: 10px;      // rounded corners
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); // optional: subtle shadow for separation
-
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
 }
